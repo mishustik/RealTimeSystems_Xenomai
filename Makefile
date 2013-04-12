@@ -1,7 +1,7 @@
 ###### CONFIGURATION ######
 
 ### List of applications to be build
-APPLICATIONS = trivial-periodic sigdebug rtprint HW2 HW2_SleepModification twotasksRM
+APPLICATIONS = HW2 HW2_SleepModification twotasksRM
 
 ### Note: to override the search path for the xeno-config script, use "make XENO=..."
 
